@@ -11,5 +11,5 @@ OpenAPI Generator version: 6.5.0
 =end
 
 module Bandwidth
-  VERSION = ENV.fetch("GEM_VERSION")
+  VERSION = 'daisy-0.0.1'
 end
